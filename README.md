@@ -17,20 +17,46 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**:  
-`JavaScript` `Python` `C` `SQL` `Cpp`  
+## 🛠️ Tech Stack
 
-**Web**:  
-`React.js` `Node.js` `Express.js` `Supabase` `HTML/CSS` `Bootstrap` `MongoDB`
+### 💻 Languages  
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300B4DB.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**App Dev**:  
-`React Native` `Gradle` `UX Design`  
+### 🌐 Web Development  
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-%2300C4B3.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**AI/ML**:  
-`CNN` `TensorFlow` `Keras` `OpenCV` `OCR`  
+### 📱 App Development  
+![React Native](https://img.shields.io/badge/react_native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Gradle](https://img.shields.io/badge/gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
+![UX Design](https://img.shields.io/badge/ux--design-%23FF4081.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-**Tools/Platforms**:  
-`AWS` `Streamlit` `MySQL` `Git` `Linux`
+### 🤖 AI / ML  
+![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
+![OCR](https://img.shields.io/badge/OCR-%234285F4.svg?style=for-the-badge&logo=tesseract&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-%23FF5722.svg?style=for-the-badge)
+
+### 🧰 Tools / Platforms  
+![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ---
 
